@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Md Tauseef 👋
 
-<!--
-**Md-TAUSEEF/Md-Tauseef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer
 
-Here are some ideas to get you started:
+I'm a MERN Stack Developer focused on building modern, responsive, and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+* React.js
+* JavaScript
+* Redux
+* Material UI
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+* JWT Authentication
+* Cloudinary
+* Git & GitHub
+
+### What I Do
+
+* Full Stack Web Development
+* Frontend Development with React.js
+* Backend & REST API Development
+* Database Integration
+* Authentication & Authorization
+* Deployment & Project Development
+
+### Featured Projects
+
+* Zenvix — Course-to-Placement Platform
+* NextGen — Education CRM Platform
+* KMR Conchem — Chemical Products Website
+* EKACEL — Battery Company Website with Load Calculator
+* SK Agro Foods — Food Products Website
+
+### Connect With Me
+
+* Portfolio: YOUR_PORTFOLIO_LINK
+* LinkedIn: YOUR_LINKEDIN_LINK
+* GitHub: https://github.com/Md-TAUSEEF
